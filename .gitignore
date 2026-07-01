@@ -1,0 +1,12 @@
+# Harbor generated outputs
+jobs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
